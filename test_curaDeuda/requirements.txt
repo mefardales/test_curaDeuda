@@ -1,0 +1,12 @@
+wheel==0.37.1
+Werkzeug==2.1.0
+uvicorn==0.17.6
+fastapi==0.75.0
+fastapi-jwt-auth==0.1.0
+tortoise-orm==0.17.5
+pydantic==1.9.0
+xlrd==2.0.1
+django==3.2.10
+whitenoise
+psycopg2
+
